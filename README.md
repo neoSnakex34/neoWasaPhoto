@@ -13,7 +13,17 @@ WASAPhoto (graphically *WasaPHOTO*) is a single page WebApp implementing a **RES
 * Deployment is made using **Docker** containers. See the two `Dockerfile.*` in the project root.
 
 ## Some demo screenshots
+login page
+![Alt text](screenshot/login.png)
+
+user feed
 ![Alt text](screenshots/feed.png)
+
+user profile
+![Alt text](screenshot/profile.png)
+
+post details
+![Alt text](screenshot/media.png)
 
 ## How to build
 
