@@ -14,16 +14,16 @@ WASAPhoto (graphically *WasaPHOTO*) is a single page WebApp implementing a **RES
 
 ## Some demo screenshots
 login page
-![Alt text](screenshot/login.png)
+![Alt text](screenshots/login.png)
 
 user feed
 ![Alt text](screenshots/feed.png)
 
 user profile
-![Alt text](screenshot/profile.png)
+![Alt text](screenshots/profile.png)
 
 post details
-![Alt text](screenshot/media.png)
+![Alt text](screenshots/media.png)
 
 ## How to build
 
