@@ -12,6 +12,8 @@ WASAPhoto (graphically *WasaPHOTO*) is a single page WebApp implementing a **RES
 * Users will use API functions through a **FRONTEND** UI made with **Vue.js**, aesthetically appealing and easy to use. Source found in `webui/`. 
 * Deployment is made using **Docker** containers. See the two `Dockerfile.*` in the project root.
 
+## Some demo screenshots
+![Alt text](screenshots/feed.png)
 
 ## How to build
 
