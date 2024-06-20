@@ -8,9 +8,9 @@ It aims to provide an experience similar to those you can have in any of the mos
 WASAPhoto (graphically *WasaPHOTO*) is a single page WebApp implementing a **REST** API. 
 
 * **OPENAPI** specs can be found at `doc/api.yaml`.
-* API implementation and **BACKEND** features are implemented using **GO** and can be found in `service/`.
+* API implementation and **BACKEND** features are implemented using **Go** and can be found in `service/`.
 * Users will use API functions through a **FRONTEND** UI made with **Vue.js**, aesthetically appealing and easy to use. Source found in `webui/`. 
-* Deployment is made using **Docker** containers. See the two `Dockerfile.*` in the project root.
+* Deployment is made using **Docker** containers. Check the two `Dockerfile.*` in the project root.
 
 ## Some demo screenshots
 login page
